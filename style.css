@@ -1,0 +1,11 @@
+.halo{
+    width: 600px;
+    height: 600px;
+    background-color: aquamarine;
+    margin: auto;
+    padding: 50px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+
